@@ -1,0 +1,13 @@
+*{
+   box-sizing: border-box;
+}
+.amarillo{
+    background-color: yellow;
+}
+.azul{
+    
+}
+.rojo{
+    color: black;
+    padding: 2em;
+}
